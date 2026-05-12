@@ -8,7 +8,7 @@
 Este laboratorio simula la red completa de una empresa pequeña (TechCorp S.A., 15 empleados) usando Cisco Packet Tracer. Cubre los conceptos fundamentales de redes que se usan en cualquier empresa: segmentación por VLANs, asignación automática de IPs con DHCP, resolución de nombres con DNS, servidor web interno y control de acceso con ACLs.
 
 **Tecnologías utilizadas:**
-- Cisco Packet Tracer — simulador de redes
+- Cisco Packet Tracer 9.0.0 — simulador de redes
 - ISR 4331 — router principal con soporte para subinterfaces y DHCP
 - Catalyst 3560 — switch multicapa (capa 3)
 - Catalyst 2960 — switch de acceso (capa 2)
