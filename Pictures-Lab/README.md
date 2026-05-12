@@ -34,12 +34,6 @@
 <img width="1910" height="1020" alt="ACLs test" src="https://github.com/user-attachments/assets/cf66237e-260b-4600-b79d-8a2d9e5f93a6" />
 
 
---------------NETWORK
-
-
-<img width="1568" height="761" alt="Network" src="https://github.com/user-attachments/assets/715bf477-36d9-4718-82fc-08075538ef84" />
-
-
 --------------WEBSITE TEST
 
 
