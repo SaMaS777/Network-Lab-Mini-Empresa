@@ -1,2 +1,11 @@
-# Network-Lab-Mini-Empresa
-Cisco Packet Tracer network lab simulating a small business with VLANs, DHCP, DNS, and ACLs.
+# Network Lab — Mini Empresa (TechCorp S.A.)
+Simulación de red empresarial en Cisco Packet Tracer.
+
+## Tecnologías
+VLANs · DHCP · DNS · HTTP · ACLs · Router-on-a-stick
+
+## Incluye
+- 5 VLANs segmentadas por departamento
+- DHCP automático por VLAN
+- DNS y servidor web interno
+- ACLs de control de acceso
